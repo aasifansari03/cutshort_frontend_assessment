@@ -137,6 +137,6 @@ body {
   color: var(--purple);
   font-weight: 500;
   margin: 0 10px;
-  min-width: 500px;
+  width: 500px;
   border-radius: 8px;
 }
